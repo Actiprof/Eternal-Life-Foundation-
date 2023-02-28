@@ -1,2 +1,3 @@
 # Eternal-Life-Foundation-
-church-website
+A site for the church of PST FORTUNE
+
